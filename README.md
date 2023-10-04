@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning at Alx Software engineering institute
 - 💞️ I’m looking to collaborate on web and program related project
 - 📫 Reach on my LinkedIn https://www.linkedin.com/in/muhammad-hamza-7239b9237
-or muhammadhamza162003@gmailcom
+or hamza.00dev1@gmail.com
 
 <!---
 Hamza1610/Hamza1610 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
