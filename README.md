@@ -1,22 +1,19 @@
 # 👋 Hi, I'm Muhammad Hamza
 
-![Banner](https://your-image-link.com/banner.png)
-
 Welcome to my GitHub profile!  
 I’m an **AI Software Engineer** passionate about building intelligent systems, scalable software, and impactful digital solutions.  
-Currently, I’m working at **Daabo Insurance Company** — designing and deploying AI-powered solutions that drive smarter automation and better decision-making.
+Currently, I work as an **AI Engineer at Daabo Insurance Company**, where I design and deploy AI-powered systems that drive automation, insights, and smarter decision-making.
 
 ---
 
 ## 🌟 About Me
 
 - 💼 **Role:** AI Engineer @ **Daabo Insurance Company**
-- 🎓 **Background:** Certified **ALX Software Engineer**, with additional training in **AI Fundamentals**
-- 💡 **Focus Areas:** Machine Learning, MLOps, NLP, and Intelligent Automation
-- 🌱 **Currently Learning:** Model deployment, LLM integration, and advanced data pipelines
-- ⚙️ **Building:** Real-world AI and web-based applications that simplify business processes
-- 💬 **Ask me about:** AI systems, backend engineering, data-driven apps, and software scalability
-- 📘 **Fun fact:** I’m always experimenting with ways to make AI more accessible and usable for small and medium businesses.
+- 🎓 **Certified:** ALX Software Engineering (Holberton School)
+- 💡 **Focus Areas:** AI Systems, MLOps, NLP, and Intelligent Automation  
+- 🌱 **Currently Exploring:** Model optimization, LLM integration, and production AI systems  
+- ⚙️ **Passionate About:** Building AI-driven software that empowers small and medium businesses  
+- 💬 **Ask me about:** AI engineering, backend systems, or scalable cloud applications  
 
 ---
 
@@ -27,12 +24,13 @@ Currently, I’m working at **Daabo Insurance Company** — designing and deploy
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🤖 **AI / Machine Learning**
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
@@ -48,38 +46,44 @@ Currently, I’m working at **Daabo Insurance Company** — designing and deploy
 
 ## 🚀 Featured Projects
 
-### 🧭 [VibeSynk](https://github.com/VibeSynk/vibesynk-web)
-A unified social and content monetization platform for creators — enabling cross-platform engagement and analytics powered by intelligent automation.  
-**Stack:** React, Node.js, FastAPI, PostgreSQL, Docker, GCP  
+### 🤖 [Daabo AI Agent System](https://github.com/Hamza1610/Daboo-AI-Agent-System)
+An intelligent automation platform for insurance operations — integrating LLMs and predictive models to enhance claim processing and customer support.  
+**Tech:** Python, FastAPI, LangChain, OpenAI API, Docker  
 
 ---
 
-### 🧬 [Aidnox](https://github.com/Aidnox)
-An AI-driven platform empowering SMEs with automation and business intelligence tools.  
-**Stack:** Python, FastAPI, scikit-learn, LangChain, PostgreSQL  
+### 🧭 VibeSynk *(Private Repository)*
+A unified social and content monetization platform for creators — enabling cross-platform engagement and AI-driven analytics.  
+**Tech:** React, Node.js, FastAPI, PostgreSQL, Docker, GCP  
 
 ---
 
-### 🏥 [Hospital Delivery App](https://github.com/your-repo)
-A delivery coordination system connecting hospitals, pharmacies, and delivery agents for time-critical medical needs.  
-**Stack:** Node.js, Express, MongoDB, Docker  
+### 🧬 Aidnox *(Private Project)*
+An AI-powered SME automation platform providing business insights, workflow automation, and operational intelligence.  
+**Tech:** Python, FastAPI, scikit-learn, PostgreSQL  
 
 ---
 
-### 🎓 [Student Tracker](https://github.com/your-repo)
-A full-stack school management solution to monitor student performance, attendance, and grading.  
-**Stack:** React, Node.js, PostgreSQL  
+### 🏥 [Hospital Delivery App](https://github.com/Hamza1610/hostpital-delivery-fullstack)
+A delivery coordination system connecting hospitals, pharmacies, and delivery agents for time-critical medical deliveries.  
+**Tech:** Node.js, Express, MongoDB, React, Docker  
 
 ---
 
-### 💰 [Fundraiser App](https://github.com/your-repo)
-A secure fundraising platform with integrated payment gateways and donor analytics.  
-**Stack:** React, FastAPI, Stripe API, PostgreSQL  
+### 💰 [Fundraiser App](https://github.com/Hamza1610/fundraiser-client)
+A full-stack fundraising application with secure payment processing and donor analytics.  
+**Tech:** React, FastAPI, Stripe API, PostgreSQL  
+
+---
+
+### 🎓 Student Tracker *(Academic Project)*
+A school management platform for tracking student performance, attendance, and results.  
+**Tech:** React, Node.js, PostgreSQL  
 
 ---
 
 ## 🏅 Certifications
-- 🎓 **ALX Software Engineering (Holberton School)**
+- 🎓 **ALX Software Engineering – Holberton School**
 - 🤖 **AI Fundamentals**
 - ☁️ **Google Cloud Essentials**
 - 🐍 **Python for Data Science**
@@ -88,21 +92,19 @@ A secure fundraising platform with integrated payment gateways and donor analyti
 
 ## 📊 GitHub Stats
 
-![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamza1610&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza1610&layout=compact&theme=radical)
 
 ---
 
 ## 🌐 Connect with Me
 
-Let’s collaborate, innovate, and build something meaningful together.
+I’m always open to collaborating on AI-driven, cloud-based, and innovative software projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamza-7239b9237)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamza.00dev1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hamza1610)
 
 ---
 
 > “I build intelligent systems that turn data into decisions and software into solutions.”
-
-![Footer](https://your-image-link.com/footer.png)
