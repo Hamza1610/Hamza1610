@@ -5,6 +5,8 @@ I’m an **AI Software Engineer** passionate about building intelligent systems,
 Currently, I work as an **AI Engineer at Daabo Insurance Company**, where I design and deploy AI-powered systems that drive automation, insights, and smarter decision-making.
 
 ---
+## Ttile
+  AI Engineer | Agentic Systems | Cloud & LLM Orchestration (AWS | GCP | Python)
 
 ## 🌟 About Me
 
