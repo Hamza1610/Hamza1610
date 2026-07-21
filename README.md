@@ -1,6 +1,8 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:F7931A,100:C85A00&height=200&section=header&text=Muhammad%20Hamza&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Bitcoin%20%26%20Rust%20Engineer%20%7C%20Open%20Source%20Contributor%20%7C%20AI%20Systems&descAlignY=58&descSize=18&animation=fadeIn)
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=F7931A&center=true&vCenter=true&width=600&lines=Muhammad+Hamza;Bitcoin+%26+Rust+Engineer;Open+Source+Contributor" alt="Typing SVG" />
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamza-7239b9237)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamza.00dev1@gmail.com)
@@ -146,12 +148,11 @@ Model-as-a-Service decoupling visual inference (EfficientNet-B0/PyTorch) from LL
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamza1610&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza1610&layout=compact&theme=radical&hide_border=true)
+[![Hamza's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Hamza1610&theme=github-compact&hide_border=true&color=F7931A&line=F7931A&point=ffffff)](https://github.com/Hamza1610)
 
 </div>
 
